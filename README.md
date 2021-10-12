@@ -17,5 +17,8 @@ I’m Opeoluwa Margaret Adedayo,a Masters graduate in Clinical and Molecular Mic
 <img alt="Jerry John" width="200px" height="300px" src="https://user-images.githubusercontent.com/87633445/137016780-94bfe53d-04ac-46de-89e4-dc36deceed10.jpeg" /><br><br>
 Hello there,<br>
 I am a budding researcher with a great interest in structural bioinformatics, computer-aided drug designing, and programming. I have a hands-on experience in C, R, Perl, Python languages, and various bioinformatics tools and databases.I have a strong background in Genomics, Transcriptomics, Proteomics and Data Science.<br>
-My research interests include NGS data analysis, Precision medicine studies, gynecology, multi-omics research, CADD, computational biology, machine learning, deep learning, microbiology, and virology.I also have a passion for scientific writing and teaching.<br>
-You can ping me on :https://www.linkedin.com/in/jerry-john-b762111b3/
+My research interests include NGS data analysis, Precision medicine studies, gynecology, multi-omics research, CADD, computational biology, machine learning, deep learning, microbiology, and virology. I also have a passion for scientific writing and teaching.<br>
+You can ping me on:https://www.linkedin.com/in/jerry-john-b762111b3/
+
+### Kayode Raheem 
+I'm kayode Raheem, a BSc graduate of biochemistry. An experience quality control officer. Currently looking to start with my Ph.D. program in Bioinformatics. Seeking of acquiring skills in python & R programming, machine learning, bioinformatics tools and database to broaden my knowledge in research area of biomedical science 🔬. Here is my LinkedIn profile https://www.linkedin.com/in/kayode-raheem-333290113. Let connect and build a network of scholars 
