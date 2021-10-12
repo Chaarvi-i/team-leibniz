@@ -14,9 +14,8 @@ I am a third year B.Tech Biotechnology student from D.Y. Patil University, India
 I’m Opeoluwa Margaret Adedayo,a Masters graduate in Clinical and Molecular Microbiology at the University of Nottingham, United Kingdom. I have keen interest in acquring bioinformatics skills for virology research and I am currently looking forward to apply the skill acquired for a PhD research or in the industry as opportunities present itself. You can connect with me on LinkedInhttps://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/
 
 ### Jerry John 
-<img alt="Jerry John" width="200px" height="300px" src="https://user-images.githubusercontent.com/87633445/137015481-467974e6-d156-45c9-9cae-8e9edc772799.jpeg" /><br><br>
+<img alt="Jerry John" width="200px" height="300px" src="https://user-images.githubusercontent.com/87633445/137016780-94bfe53d-04ac-46de-89e4-dc36deceed10.jpeg" /><br><br>
 Hello there,<br>
-I am a budding researcher with a great interest in structural bioinformatics, computer-aided drug designing, and programming. I have a hands-on experience in C, R, Perl, Python languages, and various bioinformatics tools and databases.I have a strong background in Genomics, Transcriptomics, Proteomics and Data Science fields.
+I am a budding researcher with a great interest in structural bioinformatics, computer-aided drug designing, and programming. I have a hands-on experience in C, R, Perl, Python languages, and various bioinformatics tools and databases.I have a strong background in Genomics, Transcriptomics, Proteomics and Data Science.<br>
 My research interests include NGS data analysis, Precision medicine studies, gynecology, multi-omics research, CADD, computational biology, machine learning, deep learning, microbiology, and virology.I also have a passion for scientific writing and teaching.<br>
 You can ping me on :https://www.linkedin.com/in/jerry-john-b762111b3/
-
