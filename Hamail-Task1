@@ -3,4 +3,4 @@ email = "hi70@scarletmail.rutgers.edu"
 slack_username = "hammy"
 biostack = "Machine Learning/Bioinformatics"
 
-print(name, email, slack_username, biostack)
+print("My name is ", name, ". My email is ", email, ". My slack username is ", slack_username, ". My biostack is ", biostack, ".")
