@@ -35,3 +35,6 @@ You can ping me on:https://www.linkedin.com/in/jerry-john-b762111b3/
 
 I'm kayode Raheem, a BSc graduate of biochemistry. An experience quality control officer. Currently looking to start with my Ph.D. program in Bioinformatics. Seeking of acquiring skills in python & R programming, machine learning, bioinformatics tools and database to broaden my knowledge in research area of biomedical science 🔬. Here is my LinkedIn profile https://www.linkedin.com/in/kayode-raheem-333290113. Let connect and build a network of scholars 
 
+### Hamail Iqbal
+
+Hi, I'm Hamail. I recently graduated with a BA in Cell Biology and Neuroscience. Though I have minimal coding experience, I am interested in improving my knowledge of bioinformatics and the use of machine learning/deep learning within the life sciences and medicine. I look forward to working with you all!
