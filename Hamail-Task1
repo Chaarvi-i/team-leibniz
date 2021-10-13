@@ -1,6 +1,0 @@
-name ="Hamail Iqbal"
-email = "hi70@scarletmail.rutgers.edu"
-slack_username = "hammy"
-biostack = "Machine Learning/Bioinformatics"
-
-print("My name is ", name, ". My email is ", email, ". My slack username is ", slack_username, ". My biostack is ", biostack, ".")
