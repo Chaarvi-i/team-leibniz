@@ -1,12 +1,12 @@
 # Team-leibniz
 This is team Leibniz from HackBio internship. <br>
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.<br>
-We have chosen several different programming languages to complete the task given to us- 
+We have chosen several different programming languages to complete the task given to us- <br> 
 R programming <br>
 Perl <br>
 Java <br>
 HTML <br>
-SQL <br>
+Python <br>
 
 Here is a brief introduction about us.
 ## Team Members 
