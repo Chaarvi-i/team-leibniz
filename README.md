@@ -1,14 +1,23 @@
 # Team-leibniz
-This is team Leibniz from HackBio internship. Here is a brief introduction about us.
+This is team Leibniz from HackBio internship. <br>
+HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.<br>
+We have chosen several different programming languages to complete the task given to us- 
+R programming
+Perl
+Java
+HTML
+SQL
+
+Here is a brief introduction about us.
 ## Team Members 
-### Chaarvi Narang
+### Chaarvi Narang (Team leader)
 I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I have interest in the topics of Computer aided drug design and discovery, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/
 
 
 
 ![alt text](https://lh3.googleusercontent.com/a-/AOh14GhPU46tZCpIFhfYIRaQI6JXiuFFFPnioV1L4i5zAoQ=s432-p-rw-no)
 
-<p></p><p></p>
+
 ### <h3>Margaret Adedayo Opeoluwa</h3>
 <br>
 <img alt="Margaret Adedayo Opeoluwa" width="200px" height="200px" src="https://media-exp1.licdn.com/dms/image/C5603AQE4VhoSlwPcCQ/profile-displayphoto-shrink_800_800/0/1526392293930?e=1639612800&v=beta&t=z8_2bsXlZesketM3dYvihwVnN7ogVtPqMmcaPzc8t7o" /><br><br>
