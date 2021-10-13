@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7e5b92a-6789-4037-8576-46e932e92859" name="Default Changelist" comment="" />
+    <list default="true" id="e7e5b92a-6789-4037-8576-46e932e92859" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Jerry(HB).pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maverique Richard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaarvi.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hammy-Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +29,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -48,5 +57,11 @@
       <updated>1634063452992</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="80" key="MultipleFileMergeDialog" timestamp="1634153459371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="80" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1634153459371" />
   </component>
 </project>
