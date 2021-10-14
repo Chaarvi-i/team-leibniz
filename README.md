@@ -40,12 +40,12 @@ I'm kayode Raheem, a BSc graduate of biochemistry. An experience quality control
 Hi, I'm Hamail. I recently graduated with a BA in Cell Biology and Neuroscience. Though I have minimal coding experience, I am interested in improving my knowledge of bioinformatics and the use of machine learning/deep learning within the life sciences and medicine. I look forward to working with you all!
 
 ### Ifeanyi Richard C.
-<a href="https://ibb.co/z64K793"><img src="https://i.ibb.co/J3sXy6Y/IMAGE.jpg" alt="IMAGE" border="0"></a><br/>
+<a href="https://ibb.co/z64K793"><img src="https://i.ibb.co/J3sXy6Y/IMAGE.jpg" alt="IMAGE" width="200px" height="300px"></a><br/>
 Graduate Pharmacist with experience in pharmaceutical care, health innovations and research writing. I'm very passionate about public health and global wellness with a keen interest in HIV/AIDs screening, prevention, management, and control. I am very interested in Bioinformatics and drug development, and is seeking to acquire enough knowledge to pursue my desired interest in pharmaceutical outcomes, drug design and development. 
 You can connect with me on https://https://www.linkedin.com/in/ifeanyirichardc-2019 </a>
 
 ### Ezigbo Ugochukwu G.
-<a href="https://ibb.co/9tFTcB0"><img src="https://i.ibb.co/WtbyG7X/Whats-App-Image-2021-10-14-at-1-25-26-AM.jpg" alt="Whats-App-Image-2021-10-14-at-1-25-26-AM" border="0"></a>
+<a href="https://ibb.co/9tFTcB0"><img src="https://i.ibb.co/WtbyG7X/Whats-App-Image-2021-10-14-at-1-25-26-AM.jpg" alt="Whats-App-Image-2021-10-14-at-1-25-26-AM" width="200px" height="300px"></a>
 
 A Pharmacist graduate from University of Nigeria.I have relevant pharmaceutical care experience in both community and hospital pharmacy setting. My optimism and passion for cutting edge research and development in public health initiatives and global wellness has enkindled my love for health innovations and research writing. I am very interested in learning bioinformatics and drug design and development.
 
