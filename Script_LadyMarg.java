@@ -7,8 +7,7 @@ public class Main {
         System.out.println("About Me: " + "\n" +
                 "Name: Margaret Adedayo Opeoluwa" + "\n"  +
                 "Email: adeogunmargaret@gmail.com" + "\n" +
-                "Discord / Slack Username: @LadyMarg" + "\n" +
-                "Biostack: Microbiology\n" +
-                "Slack username: LadyMarg");
+                "Slack Username: @LadyMarg" + "\n" +
+                "Biostack: Microbiology");
     }
 }
