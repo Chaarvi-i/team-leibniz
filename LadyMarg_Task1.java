@@ -9,7 +9,6 @@ public class Main {
                 "Email: adeogunmargaret@gmail.com" + "\n" +
                 "Discord / Slack Username: @LadyMarg" + "\n" +
                 "Biostack: Microbiology\n" +
-                "Social media account:\n" +
-                "LindedIn: https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/");
+                "Slack username: LadyMarg");
     }
 }
