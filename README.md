@@ -7,6 +7,7 @@ Perl <br>
 Java <br>
 HTML <br>
 Python <br>
+SQL <br>
 
 Here is a brief introduction about us.
 ## Team Members 
@@ -50,3 +51,9 @@ You can connect with me on https://https://www.linkedin.com/in/ifeanyirichardc-2
 A Pharmacist graduate from University of Nigeria.I have relevant pharmaceutical care experience in both community and hospital pharmacy setting. My optimism and passion for cutting edge research and development in public health initiatives and global wellness has enkindled my love for health innovations and research writing. I am very interested in learning bioinformatics and drug design and development.
 
 Here is my LinkedIn, Kindly connect with me: https://www.linkedin.com/in/ezigbo-ugochukwu-5a482514b
+
+
+### Olanrewaju Dada
+![OLANREWAJU DADA2](https://user-images.githubusercontent.com/88590599/137248805-d04c4672-f140-46e4-8872-5986584f0050.jpg)
+
+I am Olanrewaju Dada, a Graduate Microbiologist from Nigeria with substantial experience with using data to provide healthcare solutions. I am a young student of bioinformatics interested in contributing to science and research with respect to drug resistance and medicinal plants optimization. You can join my LinkedIn network by clicking this [link](https://www.linkedin.com/in/lanredada).
