@@ -11,12 +11,10 @@ SQL <br>
 
 Here is a brief introduction about us.
 ## Team Members 
-### Chaarvi Narang (Team leader)
-I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I am interested in the topics of Computer aided drug design, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/
+### Chaarvi Narang (Team leader) <br>
+<img alt="Chaarvi" width="200px" height="200px" src="https://lh3.googleusercontent.com/pw/AM-JKLXNeyqkJVGTy_wqaf8CYIBf1_3l0kjOSsWwA1GeGzG9xPsfv5mH4avfFbdh-kfpV3nbkuvpZSObVdU9FH5Zo73AYrsO4GJZRD21yQkYkNXJzklhMJB1HNQrUhmDoYqU7bADgEfXa_3OndvVnYDU56xKGE4vq5bdA3faPwNFUb7QEufxjAZYDzyXrJln1wKaSf6sTKfJ4AkgnOJ__DJrK46ccdtMQ55sEel4k_FI64ijGVEwbI8L4HA3tQjHVHpRHHcNGDS_G3nV1o1nHwO4_1VCCLWcXaxygrXi-a0g6y2Q7aYqVDwsB8_bFikU9lKQVfBtPTVWi2mj29vyd3XZgCDjBcj6-TDLOojC2Oej6YseM97txaNUSB1N1E4xrnW2-RwDXbr6ousjNkOr8LZ34RScoxbxRhC4NDGV5L_exBldZ9GwZH0oAA7HFOo5Htk-jGHk-Usipwe9_Uq4AmOuXJd3JntM5ooZdo66ih8oDezojS_EYHFYjPDZTyMEA_UmUxQ3AxEg03HkfOJo2nzurxQ2GLrl84ix-cYY37-tKGoohQ8EJ1-AfPpFT-RmwA7DWHwfAeIb1tdlitrQ6BI-YvE5UuIwPhQaoNI-LMAToTMMaTvNk6bv8UiA_bEOP8sdDA3JXIfPiZVQK1jgn8ant_nrb_LNYF0vkuWhV8MOKqUNGKb1VeYNwpz99WeRvjvYDhee-DGqLdSaOj2wvtGiGyqSgQE5-Xz5r3N720gKKq3r2lUL=s866-no?authuser=0&authuser=0" /><br><br>
+I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I am interested in the topics of Computer aided drug design, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/ <br> <br>
 
-
-
-![alt text](https://lh3.googleusercontent.com/pw/AM-JKLXNeyqkJVGTy_wqaf8CYIBf1_3l0kjOSsWwA1GeGzG9xPsfv5mH4avfFbdh-kfpV3nbkuvpZSObVdU9FH5Zo73AYrsO4GJZRD21yQkYkNXJzklhMJB1HNQrUhmDoYqU7bADgEfXa_3OndvVnYDU56xKGE4vq5bdA3faPwNFUb7QEufxjAZYDzyXrJln1wKaSf6sTKfJ4AkgnOJ__DJrK46ccdtMQ55sEel4k_FI64ijGVEwbI8L4HA3tQjHVHpRHHcNGDS_G3nV1o1nHwO4_1VCCLWcXaxygrXi-a0g6y2Q7aYqVDwsB8_bFikU9lKQVfBtPTVWi2mj29vyd3XZgCDjBcj6-TDLOojC2Oej6YseM97txaNUSB1N1E4xrnW2-RwDXbr6ousjNkOr8LZ34RScoxbxRhC4NDGV5L_exBldZ9GwZH0oAA7HFOo5Htk-jGHk-Usipwe9_Uq4AmOuXJd3JntM5ooZdo66ih8oDezojS_EYHFYjPDZTyMEA_UmUxQ3AxEg03HkfOJo2nzurxQ2GLrl84ix-cYY37-tKGoohQ8EJ1-AfPpFT-RmwA7DWHwfAeIb1tdlitrQ6BI-YvE5UuIwPhQaoNI-LMAToTMMaTvNk6bv8UiA_bEOP8sdDA3JXIfPiZVQK1jgn8ant_nrb_LNYF0vkuWhV8MOKqUNGKb1VeYNwpz99WeRvjvYDhee-DGqLdSaOj2wvtGiGyqSgQE5-Xz5r3N720gKKq3r2lUL=s866-no?authuser=0&authuser=0)
 
 
 ### <h3>Margaret Adedayo Opeoluwa</h3>
