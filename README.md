@@ -1,21 +1,20 @@
 # Team-leibniz
 This is team Leibniz from HackBio internship. <br>
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.<br>
-We have chosen several different programming languages to complete the task given to us- 
+We have chosen several different programming languages to complete the task given to us- <br> 
 R programming <br>
 Perl <br>
 Java <br>
 HTML <br>
+Python <br>
 SQL <br>
 
 Here is a brief introduction about us.
 ## Team Members 
-### Chaarvi Narang (Team leader)
-I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I have interest in the topics of Computer aided drug design and discovery, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/
+### Chaarvi Narang (Team leader) <br>
+<img alt="Chaarvi" width="200px" height="200px" src="https://lh3.googleusercontent.com/pw/AM-JKLXNeyqkJVGTy_wqaf8CYIBf1_3l0kjOSsWwA1GeGzG9xPsfv5mH4avfFbdh-kfpV3nbkuvpZSObVdU9FH5Zo73AYrsO4GJZRD21yQkYkNXJzklhMJB1HNQrUhmDoYqU7bADgEfXa_3OndvVnYDU56xKGE4vq5bdA3faPwNFUb7QEufxjAZYDzyXrJln1wKaSf6sTKfJ4AkgnOJ__DJrK46ccdtMQ55sEel4k_FI64ijGVEwbI8L4HA3tQjHVHpRHHcNGDS_G3nV1o1nHwO4_1VCCLWcXaxygrXi-a0g6y2Q7aYqVDwsB8_bFikU9lKQVfBtPTVWi2mj29vyd3XZgCDjBcj6-TDLOojC2Oej6YseM97txaNUSB1N1E4xrnW2-RwDXbr6ousjNkOr8LZ34RScoxbxRhC4NDGV5L_exBldZ9GwZH0oAA7HFOo5Htk-jGHk-Usipwe9_Uq4AmOuXJd3JntM5ooZdo66ih8oDezojS_EYHFYjPDZTyMEA_UmUxQ3AxEg03HkfOJo2nzurxQ2GLrl84ix-cYY37-tKGoohQ8EJ1-AfPpFT-RmwA7DWHwfAeIb1tdlitrQ6BI-YvE5UuIwPhQaoNI-LMAToTMMaTvNk6bv8UiA_bEOP8sdDA3JXIfPiZVQK1jgn8ant_nrb_LNYF0vkuWhV8MOKqUNGKb1VeYNwpz99WeRvjvYDhee-DGqLdSaOj2wvtGiGyqSgQE5-Xz5r3N720gKKq3r2lUL=s866-no?authuser=0&authuser=0" /><br><br>
+I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I am interested in the topics of Computer aided drug design, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/ <br> <br>
 
-
-
-![alt text](https://lh3.googleusercontent.com/a-/AOh14GhPU46tZCpIFhfYIRaQI6JXiuFFFPnioV1L4i5zAoQ=s432-p-rw-no)
 
 
 ### <h3>Margaret Adedayo Opeoluwa</h3>
@@ -40,6 +39,22 @@ I'm kayode Raheem, a BSc graduate of biochemistry. An experience quality control
 Hi, I'm Hamail. I recently graduated with a BA in Cell Biology and Neuroscience. Though I have minimal coding experience, I am interested in improving my knowledge of bioinformatics and the use of machine learning/deep learning within the life sciences and medicine. I look forward to working with you all!
 
 ### Ifeanyi Richard C.
-<a href="https://ibb.co/z64K793"><img src="https://i.ibb.co/J3sXy6Y/IMAGE.jpg" alt="IMAGE" border="0"></a><br/>
+<a href="https://ibb.co/z64K793"><img src="https://i.ibb.co/J3sXy6Y/IMAGE.jpg" alt="IMAGE" width="200px" height="300px"></a><br/>
 Graduate Pharmacist with experience in pharmaceutical care, health innovations and research writing. I'm very passionate about public health and global wellness with a keen interest in HIV/AIDs screening, prevention, management, and control. I am very interested in Bioinformatics and drug development, and is seeking to acquire enough knowledge to pursue my desired interest in pharmaceutical outcomes, drug design and development. 
-# You can connect with me on <a href="https://https://www.linkedin.com/in/ifeanyirichardc-2019/"> *LinkedIn* </a>
+You can connect with me on https://https://www.linkedin.com/in/ifeanyirichardc-2019 </a>
+
+### Ezigbo Ugochukwu G.
+<a href="https://ibb.co/9tFTcB0"><img src="https://i.ibb.co/WtbyG7X/Whats-App-Image-2021-10-14-at-1-25-26-AM.jpg" alt="Whats-App-Image-2021-10-14-at-1-25-26-AM" width="200px" height="300px"></a>
+
+A Pharmacist graduate from University of Nigeria.I have relevant pharmaceutical care experience in both community and hospital pharmacy setting. My optimism and passion for cutting edge research and development in public health initiatives and global wellness has enkindled my love for health innovations and research writing. I am very interested in learning bioinformatics and drug design and development.
+
+Here is my LinkedIn, Kindly connect with me: https://www.linkedin.com/in/ezigbo-ugochukwu-5a482514b
+
+
+### Olanrewaju Dada
+![OLANREWAJU DADA2](https://user-images.githubusercontent.com/88590599/137248805-d04c4672-f140-46e4-8872-5986584f0050.jpg)
+
+I am Olanrewaju Dada, a Graduate Microbiologist from Nigeria with substantial experience with using data to provide healthcare solutions. I am a young student of bioinformatics interested in contributing to science and research with respect to drug resistance and medicinal plants optimization. You can join my LinkedIn network by clicking this [link](https://www.linkedin.com/in/lanredada).
+
+### Queen Ozioma Lawrence
+I am Queen Ozioma Lawrence, with BSc Zoology and Environmental Biology and MSc parasitology from Michael Okpara University Agriculture Umudike, Abia State. An academia, entrepreneur and a researcher with much interest in understanding disease processes and development of new therapeutic approaches to improve and solve the underlying health issue of the populations. With over 5 years in educational sector, 2 years teaching experience. Participated in group and personal research project involving epidemiological and parasitological survey. Versatile in the competent use of various computer packages. Passionate about community and service to humanity. I’m interested interested in new findings and open to ideas. I’m currently working on a research on Toxoplasma godii parasite I’m looking to collaborate on any public health research I can be reached through https://www.linkedin.com/in/queen-lawrence-43554b1ba
