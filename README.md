@@ -12,7 +12,7 @@ SQL <br>
 Here is a brief introduction about us.
 ## Team Members 
 ### Chaarvi Narang (Team leader) <br>
-<img alt="Chaarvi" width="200px" height="200px" src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F237400857_1554859871527143_27010210464901469_n.jpg%3Fccb%3D11-4%26oh%3Dff6a61af13dbbfee7af5bfb613e72a5a%26oe%3D616D6709&t=l&u=919820457988%40c.us&i=1634291408&n=f8btJq7h11JmbLZuPrYPA5LWKInNUu%2BpE5MK2fsXYn4%3D" /><br><br>
+<img alt="Chaarvi Narang" width="200px" height="200px" src="https://media-exp1.licdn.com/dms/image/C5603AQEmYSTRRBB0OQ/profile-displayphoto-shrink_800_800/0/1628530288590?e=1639612800&v=beta&t=hbr4eQU7rwE6BtzzyCtDPv4XKOlcULOqtieP3PcRgOs" /><br><br>
 I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I am interested in the topics of Computer aided drug design, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/ <br> <br>
 
 
