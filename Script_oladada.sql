@@ -21,7 +21,9 @@ INSERT INTO Biodata (First_Name, Last_Name, Email, Discord_Username, Slack_Usern
 INSERT INTO Biodata (First_Name, Last_Name, Email, Discord_Username, Slack_Username, Linkedin_Profile, Programming_Language, Biostack) VALUES ('Jerry', 'John', 'jerryjohn1999\@gmail.com', '@jerryjohn', '@jerry', 'https://www.linkedin.com/in/jerry-john-b762111b3', 'Perl', 'Drug designing and development');
 INSERT INTO Biodata (First_Name, Last_Name, Email, Discord_Username, Slack_Username, Linkedin_Profile, Programming_Language, Biostack) VALUES ('Lawrence', 'Queen', 'queenlawrence02@gmail.com', '@prettywhite', '@prettywhite', 'Null', 'HTML', 'Genomics');
 
+
 SELECT *
 FROM Biodata
+
 
 DROP Table Biodata;
