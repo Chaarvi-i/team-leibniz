@@ -1,2 +1,9 @@
 #HackBio Stage0 
-print("Jerry John,jerryjohn1999\@gmail.com,\@jerry,Drug Development and Machine learning")
+
+$name= "JERRY JOHN";
+$emailid= "jerryjohn1999\@gmail.com";
+$slack= "\@Jerry";
+$biostack= "Drug Development and Machine Learning";
+
+print ($name,",",$emailid,",",$slack,",",$biostack);
+
