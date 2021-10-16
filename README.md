@@ -1,6 +1,8 @@
 # Team-leibniz
-This is team Leibniz from HackBio internship. <br>
+<h1 align="center">Hi 👋, We are Team-Leibniz 💝</h1>
+<h3 align="center">The team of 10 people for HackBio Oct'2021 Virtual Bioinformatics Internship 🖨️</h3>
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.<br>
+-:link:HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
 We have chosen several different programming languages to complete the task given to us- <br> 
 R programming <br>
 Perl <br>
