@@ -3,4 +3,4 @@ email = "ezeigbougochukwu@gmail.com"
 slack_username = "ugoGabby"
 biostack = "Bioinformatics/drug design and developement"
 
-print(name,email,slack_username,biostack)
+print(name,",",email,",",slack_username,",",biostack)
