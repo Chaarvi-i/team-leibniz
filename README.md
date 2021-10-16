@@ -1,25 +1,30 @@
 # Team-leibniz
-<h1 align="center">Hi 👋, We are Team-Leibniz 💝</h1>
+<h1 align="center">Hi 👋, We are Team-Leibniz :information_desk_person:</h1>
 <h3 align="center">The team of 10 people for HackBio Oct'2021 Virtual Bioinformatics Internship 🖨️</h3>
 HackBio is a 5-weeks virtual research internship that is practice oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.<br>
--:link:HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
-We have chosen several different programming languages to complete the task given to us- <br> 
-R programming <br>
-Perl <br>
-Java <br>
-HTML <br>
-Python <br>
-The team members uploaded their scripts in different languages to the repository. Then we executed a bash code for generating a csv file from outputs of all the scripts. The bash script and the csv file have been uploaded on the team's repository.
+-:link:HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/) <br>
+# Project
+> This is the main repository for the HackBio Oct'2021 Virtual Internship Experience. <br>
+Main goal of the project is write small scripts in different languages with output as - `Name, Email Id, Slack_Username, Biostack`.<br>
+Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) using bash scripts. <br>
 
-Here is a brief introduction about us.
-## Team Members 
+We have chosen several different programming language such as : - <br> 
+:small_orange_diamond:R programming <br>
+:small_orange_diamond:Perl <br>
+:small_orange_diamond:Java <br>
+:small_orange_diamond:HTML <br>
+:small_orange_diamond:Python <br>
+& wrote bash script in Linux Environment <br>
+We have uploaded the scripts and csv file in this git repo. <br>
+
+## Know more about us :clapper:: 
 ### Chaarvi Narang (Team leader) <br>
 <img alt="Chaarvi Narang" width="200px" height="200px" src="https://media-exp1.licdn.com/dms/image/C5603AQEmYSTRRBB0OQ/profile-displayphoto-shrink_800_800/0/1628530288590?e=1639612800&v=beta&t=hbr4eQU7rwE6BtzzyCtDPv4XKOlcULOqtieP3PcRgOs" /><br><br>
 I am a third year B.Tech Biotechnology student from D.Y. Patil University, India. I am interested in the topics of Computer aided drug design, Bioinformatics and Cell biology. Although I have limited knowledge in programming, I am very interested to learn coding, data science and machine learning. Any biotechnology and bioinformatics enthusiast do connect with me. https://www.linkedin.com/in/chaarvi-narang-591333215/ <br> <br>
 
 
 
-### <h3>Margaret Adedayo Opeoluwa</h3>
+### Margaret Adedayo Opeoluwa :
 <br>
 <img alt="Margaret Adedayo Opeoluwa" width="200px" height="200px" src="https://media-exp1.licdn.com/dms/image/C5603AQE4VhoSlwPcCQ/profile-displayphoto-shrink_800_800/0/1526392293930?e=1639612800&v=beta&t=z8_2bsXlZesketM3dYvihwVnN7ogVtPqMmcaPzc8t7o" /><br><br>
 I’m Opeoluwa Margaret Adedayo,a Masters graduate in Clinical and Molecular Microbiology at the University of Nottingham, United Kingdom. I have keen interest in acquring bioinformatics skills for virology research and I am currently looking forward to apply the skill acquired for a PhD research or in the industry as opportunities present itself. You can connect with me on LinkedInhttps://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/
