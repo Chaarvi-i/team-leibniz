@@ -5,7 +5,7 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 
 -:link: HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/) <br>
 
-## Project <br>
+## Project :clipboard: <br>
 > This is the main repository for the HackBio Oct'2021 Virtual Internship Experience. <br>
 Main goal of the project is write small scripts in different languages with output as - `Name, Email Id, Slack_Username, Biostack`.<br>
 Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) using bash scripts. <br>
