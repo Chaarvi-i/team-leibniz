@@ -1,2 +1,2 @@
-print("#Chaarvi Narang, narang.chaarvi@gmail.com, @Chaarvy, Genomics")
+print("#Chaarvi Narang, narang.chaarvi@gmail.com, @Chaarvi, Genomics")
 
