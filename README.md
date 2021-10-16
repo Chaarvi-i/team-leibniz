@@ -10,7 +10,7 @@ HackBio is a 5-weeks virtual research internship that is practice oriented and f
 Main goal of the project is write small scripts in different languages with output as - `Name, Email Id, Slack_Username, Biostack`.<br>
 Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) using bash scripts. <br>
 
-We have chosen several different programming language such as : - <br> 
+We have chosen several different programming languages such as : - <br> 
 :small_orange_diamond:R programming <br>
 :small_orange_diamond:Perl <br>
 :small_orange_diamond:Java <br>
@@ -28,7 +28,7 @@ I am a third year B.Tech Biotechnology student from D.Y. Patil University, India
 ### :honeybee:Margaret Adedayo Opeoluwa :<br>
 <img alt="Margaret Adedayo Opeoluwa" width="200px" height="200px" src="https://media-exp1.licdn.com/dms/image/C5603AQE4VhoSlwPcCQ/profile-displayphoto-shrink_800_800/0/1526392293930?e=1639612800&v=beta&t=z8_2bsXlZesketM3dYvihwVnN7ogVtPqMmcaPzc8t7o" /><br><br>
 I’m Opeoluwa Margaret Adedayo,a Masters graduate in Clinical and Molecular Microbiology at the University of Nottingham, United Kingdom. I have keen interest in acquring bioinformatics skills for virology research and I am currently looking forward to apply the skill acquired for a PhD research or in the industry as opportunities present itself. <br>
-:round_pushpin: You can connect with me on LinkedInhttps://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/
+:round_pushpin: You can connect with me on LinkedIn https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/
 
 ### :honeybee: Jerry John 
 <img alt="Jerry John" width="200px" height="300px" src="https://user-images.githubusercontent.com/87633445/137016780-94bfe53d-04ac-46de-89e4-dc36deceed10.jpeg" /><br><br>
@@ -59,8 +59,8 @@ Here is my LinkedIn, Kindly connect with me: <br>
 
 ### :honeybee: Olanrewaju Dada
 ![OLANREWAJU DADA2](https://user-images.githubusercontent.com/88590599/137248805-d04c4672-f140-46e4-8872-5986584f0050.jpg)<br>
-I am Olanrewaju Dada, a Graduate Microbiologist from Nigeria with substantial experience with using data to provide healthcare solutions. I am a young student of bioinformatics interested in contributing to science and research with respect to drug resistance and medicinal plants optimization. You can join my LinkedIn network by clicking this :
-:round_pushpin:[link](https://www.linkedin.com/in/lanredada).
+I am Olanrewaju Dada, a Graduate Microbiologist from Nigeria with substantial experience with using data to provide healthcare solutions. I am a young student of bioinformatics interested in contributing to science and research with respect to drug resistance and medicinal plants optimization.<br> 
+You can join my LinkedIn network by clicking this : :round_pushpin:[link](https://www.linkedin.com/in/lanredada).
 
 ### :honeybee: Queen Ozioma Lawrence <br>
 <img alt="Queen Lawrence" width="200px" height="200px" src="https://ca.slack-edge.com/T02H8KM7TE0-U02HQN961UL-d83e2dd17f4f-192" /><br>
