@@ -7,7 +7,7 @@ Perl <br>
 Java <br>
 HTML <br>
 Python <br>
-SQL <br>
+The team members uploaded their scripts in different languages to the repository. Then we executed a bash code for generating a csv file from outputs of all the scripts.
 
 Here is a brief introduction about us.
 ## Team Members 
